@@ -1,11 +1,11 @@
 # NodeJS Course Weather App
 
-# Setup
+### Setup
 
 ```npm i``` 
 
 
-# Run
+### Run
 To run the program simple type node command and pass any place as argument
 
 ```node app.js Boston```
